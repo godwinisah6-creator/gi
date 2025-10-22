@@ -1,0 +1,2 @@
+# gi
+my portfolio 
